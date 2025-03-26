@@ -12,9 +12,9 @@ A Chrome extension that allows users to save shortcuts as key-value pairs and au
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/venugopalreddy/quick-fill.git
-   ```
+  
+   
+  
 
 2. Navigate to the project directory:
 
